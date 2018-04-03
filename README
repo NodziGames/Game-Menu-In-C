@@ -1,3 +1,3 @@
-To create the menu, type make into your terminal. You may use this menu in any way you choose, remofidy, redistribute. Credit isn't necessary but it appreciated!
+To create the menu, type make into your terminal. You may use this menu in any way you choose, whether it be to remodify, or redistribute it. Credit isn't necessary but is appreciated!
 
 PS, you'll need to install NCURSES to make it work. Smack brew install ncurses if it doesn't work.
